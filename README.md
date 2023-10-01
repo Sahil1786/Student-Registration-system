@@ -13,7 +13,6 @@ https://sahil1786.github.io/Student-Registration-system/
 
 ![Screenshot 2023-10-01 204243](https://github.com/Sahil1786/Student-Registration-system/assets/111786720/76680cee-8d9d-4309-b495-2a119aec0196)
 
-![image](https://github.com/Sahil1786/Student-Registration-system/assets/111786720/eb50c5b3-07df-43c6-a139-e5f84fc53b6e)
 
 ## Tech Stack :-
 
